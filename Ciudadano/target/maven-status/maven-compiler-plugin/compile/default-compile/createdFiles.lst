@@ -1,0 +1,4 @@
+com\empresa\facturacion\ciudadano\entities\Ciudadano.class
+com\empresa\facturacion\ciudadano\controller\CiudadanoController.class
+com\empresa\facturacion\ciudadano\CiudadanoApplication.class
+com\empresa\facturacion\ciudadano\repository\CiudadanoRepository.class
